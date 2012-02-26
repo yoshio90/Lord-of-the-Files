@@ -19,15 +19,15 @@ Once you’ve heard about GitHub, you start to see it almost everywhere. Sometim
 
 “GitHub has changed the way that people approach development,” says Tom Preston-Werner, the company’s chief technology officer. “They realize that it doesn’t have to be so complex.”
 
-Git Scratches Itch
+Gitは欲望のスクラッチ
 
-Like so many other successful geek projects, GitHub began with coders scratching their own itch. About five years ago, Wanstrath and fellow programmer P.J. Hyett were both slinging code at Cnet, the tech news and reviews site. Their language of choice was Ruby on Rails, a programming framework that makes it easy to develop Web applications.
+他のうまくいっているギークなプロジェクト同様、Githubはプログラマ自身の欲望のスクラッチから始まった。5年くらい前、ワンストラスと同僚のプログラマP.J.ハイアットは共にテクノロジーニュース＆レビューサイトであるCnetにコードを放りこんでいた。彼らはRuby on Railsを選択していたが、それはウェブアプリケーションを簡単に作るためのプログラミングフレームワークだった。
 
-As they built out their sites at Cnet, Wanstrath and Hyett wound up making a lot of improvements to Ruby on Rails itself. But they found it wasn’t so easy to get those changes integrated back into the open-source project. Following the then-dominant model of open source development, Rails was managed by a cadre of trusted coders who’d been given permission to “commit” changes to the project’s source code. To get one of their changes added to the central code, Wanstrath and Hyett would have to lobby one of those trusted coders and convince him that their change was worth integrating. That was often more work than writing the code in the first place.
+ワンストラスとハイアットは自身のサイトをCnetで作るに従って、Ruby on Rails自身にたくさんの改善を施すことになった。しかし、それらの変更をオープンソースのプロジェクトに統合して戻すことがそれほど簡単ではないことに気づいた。then-dominantモデルのオープンソース開発によって、Railsはプロジェクトのソースコードに「commit」する権利を与えられた信頼あるプログラマ集団によって管理されていた。彼らの変更を中央のコードに加え様と思うと、ワンストラスとハイアットは信頼されたプログラマ達にせがみ、自分達の変更が価値あるものであることを納得してもらう必要があった。それはしばしばコードを書くことよりもやることが多かった。
 
-They weren’t the only developers chafing under that Trusted Gatekeeper model of open source. A decade ago, Linus Torvalds found himself struggling to manage his role as gatekeeper of the Linux operating system he invented. In the beginning, Torvalds hosted Linux on a website belonging to the University of Helsinki. If people found a bug in the code, they’d send him a file with the changes via e-mail. If Torvalds read the e-mail and liked the changes, he’d incorporate them into Linux. But Torvalds is notorious for not reading all of his e-mail, so as the project got popular, more and more submissions were slipping through the cracks.
+彼らだけが、信頼された門番によるオープンソースモデルに悩まされている開発者ではなかった。10年前、リーナス・トーバルズは、自身がLinux OSの門番として招待した人達の管理役に苦労していた。始めは、トーバルズがヘルシンキ大学のウェブサイトにLinuxを置いていた。もし誰かがコードにバグを発見したら、彼にeメールで変更したファイルを送っていた。もしトーバルズがそのメールを読んで変更点を気に入ったら、彼はそれをLinuxに組み込んでいた。しかしトーバルズはメールを読まないことで有名だったので、プロジェクトの人気が出るに従って、たくさんの意見が見過ごされる様になった。
 
-This was the dirty little secret of open-source software. With the average free software project, large amounts of code — maybe even most code — never actually got used. It was often just too hard for casual users to show developers the changes they’d made and then easily merge those changes back into the open-source code base.
+これはオープンソースソフトウェアの小さな汚れた秘密だった。平均的なフリーソフトウェアプロジェクトは、大量のコードを持っているが、そのほとんどのコードが実際には使われることはない。カジュアルなユーザーにとって、彼らの変更点を開発者に見せることも、オープンソースコードベースにマージして戻すことも、しばしば難しすぎた。
 
 The Second Coming of Linus
 
