@@ -61,29 +61,29 @@ Linuxのために作られたけれども、Gitはすぐに全ての巨大なコ
 
 でも、今まで働いたチームの中で最も生産性の高いソフトウェア開発チームだ、とチャコンは言う。
 
-Git to the Future
+Gitの未来
 
-Preston-Werner’s bet has paid off. GitHub is now profitable. Users can sign up for free and start contributing, but they pay money if they want to privately host code there — starting at $7 per month. GitHub also sells an enterprise product that lets companies run your own version of GitHub behind the corporate firewall. That starts at $5,000 per year, but can cost hundreds of thousands annually for companies with hundreds of coders.
+プレストン＝ワーナーの賭けは大成功だった。GitHubは今や利益になっている。ユーザーは無料で登録できて貢献を始められるが、非公開でコードを置きたくなったら彼らはお金を支払うー月7ドルから始められる。GitHubはまた、エンタープライズ製品を販売していて、それを使うと会社のファイヤウォールの中で自分達のバージョンのGitHubを動かすことができる。これは年5000ドルから始められるが、100人当たり年10万ドルかかる。
 
-Ironically, though, GitHub’s die-hard fans don’t include Torvalds, who briefly moved Linux kernel development to GitHub last September following a security breach at its old home.
+皮肉にも、GitHubの熱心なファンの中にはトーバルズは含まれない。彼は古いホームのセキュリティ違反によって、昨年9月に一時的にLinux kernelの開発GitHubに移していた。
 
-“I like GitHub a lot,” he says. “There’s a reason it became one of the biggest source code repositories rather quickly.” But he then unfurls a long list of all the “serious” problems he had with it when he hosted his code on the site — many of which have since been fixed. He couldn’t filter comments, the e-mail interface dropped attachments, the web interface messed up code contributions, and so on. The bottom line: GitHub makes it easy to code. But it can also make it easy to generate crap.
+「私はGitHubが大好きだ」彼は言う「かなりの早さで最大のソースコードレポジトリになる理由がそこにはあると思う」だが、彼は彼のコードを置いていた時に感じた"深刻な"問題の長いリストを並べたー多くはすでに修正されているが。コメントをフィルターできない、eメールで添付ファイルが欠落する、WEB画面はコードへの貢献をめちゃくちゃにする、などなど。そしてその最後にはこうあった：GitHubはコードを書くのを簡単にする。だがそれはまたゴミを生みやすくする。
 
-That may be true, but it hasn’t held the site back. GitHub users are seemingly everywhere. On recent afternoon in San Francisco’s North Beach neighborhood, Wired was discussing the site with GitHub director of engineering Ryan Tomayko. Suddenly the guy at the next table leaned over and interrupted, like a teenager overhearing two strangers talk about his favorite band. “I just have to tell you,” he said, “GitHub is amazing.”
+それは多分真実だが、それがサイトを遅らせることはない。GitHubのユーザーは一見するとどこにでもいる。最近、サンフランシスコの北の海辺近くで、WiredはGithubのエンジニアディレクターであるライアン・トメイコと議論していた。突然、隣の机の男が寄りかかってきてじゃまされた。まるで10代の子どもが2人の見知らぬ人が自分の好きなバンドについて話しているのを立ち聞きするみたいに。「あなたに伝えておかなきゃいけないことがある」彼は言った「GitHubはすごい」
 
-It’s even feeding the Occupy movement. When Jonathan Baldwin wanted to write a cell-phone version of the People’s Microphone, used by Occupy to pass messages around big crowds, he posted his code straight to GitHub. The site let him share his code easily, and quickly connect with other developers to hammer out technical issues. “GitHub is the best thing ever. If you don’t host on GitHub, it doesn’t exist,” says Baldwin, a student at Parsons the New School for Design in New York.
+GitHubはOccupy movementさえ供給している。ジョナサン・ボールドウィンがOccupyでたくさんの群衆にメッセージを伝えるために携帯電話版のマイクを書きたいと思った時、彼はコードをそのままGitHubに投稿した。サイトによって彼は簡単にコードを共有することができ、技術的な問題の解決を打ち出せる他の開発者とすばやく繋がることができた。「GitHubは今までの中で一番良い。もしGitHubに置かなければ、こんなことは起こらなかった」ボールドウィンは言う。彼はニューヨークのパーソンズ美術大学の学生だ。
 
-And software is only part of the story. Geeks are learning that GitHub can help manage other projects as well. Books and even transcripts of talks have popped up on the site. One GitHub user, Manu Sporny, published his DNA information to the site last year, in the hope of spurring development of open-source DNA analysis software by providing real test data to analyze.
+また、ソフトウェアは物語の1つにすぎない。ギークたちはGitHubがその他のプロジェクトをも手助けしてくれると学んでいる。書籍や講演の翻訳もこのサイトから出ている。マニュー・スポーニーは昨年自分のDNAの情報を公開したが、それはオープンソースのDNA解析ソフトウェアが、本物のテストデータを与えられることでその開発に拍車がかかることを期待してのことである。
 
-When Scott Chacon wrote a book about Git, the first fork appeared within a month. It was a German translation of his book. Now, three years later, it’s been translated into 10 languages, with another 10 translations in the works. Half of the traffic to the book’s website comes from China. “Tons of people in China are learning Git because they can read [the book] in Chinese on my website, because somebody provided that,” he says.
+スコット・チャコンがGitについての本を書いた時、最初のforkは1ヶ月で現れた。それはドイツ語への翻訳だった。3年が経った今、他の10の翻訳によって10ヶ国語に翻訳されている。この本のウェブサイトへのトラフィックの半分は中国からだ。「たくさんの中国人がGitを学んでいる、なぜなら私のウェブサイトで中国語で読むことができるからで、それは誰かが提供してくれたものだ」と彼は言う。
 
-Ryan Blair, a technologist with the New York State Senate, thinks it could even give citizens a way to fork the law — proposing their own amendments to elected officials. A tool like GitHub could also make it easier for constituents to track and even voice their opinions on changes to complex legal code. “When you really think about it, a bill is a branch of the law,” he says. “I’m just in love with the idea of a constituent being able to send their state senator a pull request.”
+ニューヨーク州上院の技術者であるライアン・ブレアは、市民が自分自身の修正を選挙で選ばれた公務員に提案するために、法律をforkする手段さえ与える事ができると考えている。GitHubの様なツールで選挙人達が複雑な法律のコードを変更することでそれを追跡したり、自分たちの意見を表明することさえ簡単にできるようになる。「本当にこういうことを考えると、法案は法律のブランチなんだ」彼は言う「僕は選挙人が彼らの上院議員に対してpullリクエストを送ることができるというアイデアを愛している。」
 
-GitHub today is the darling of the open-source world, but this year, the company has set its sights on Microsoft. The company recently hired a pair of developers from the software giant, and it’s working on new software to rope in the still-considerable army of coders who write programs using Microsoft’s software development tools.
+GitHubは今日ではオープンソースの世界で最も愛されているが、今年GitHubはMicrosoftに照準を合わせている。最近2人の開発者をソフトウェアの巨人から雇っているし、Microsoftのソフトウェア開発ツールを使って開発している依然として数の多い開発者達を取り込むための新しいソフトウェアの開発をしている。
 
-“I want to live in a world where it’s easier to work together than to work alone… where every part of the software development process is a joy,” says CEO Wanstrath. “And I think GitHub can help make that happen.
+「私は一人で働くよりもみんなで一緒に働く方が楽しい世界を好きになりたい、ソフトウェア開発の全てのプロセスが楽しい世界を」CEOのワンストラスは言う。「そしてGitHubがそれを手助けできると私は考えている」
 
 
 SIDEBAR:
 
-Why Git? It’s the British slang term for stupid, despicable person — arse. The joke “I name all my projects for myself, first Linux, then git” was just too good to pass up. But it is also short, easy-to-say, and type on a standard keyboard. And reasonably unique and not any standard command, which is unusual.–Linus Torvalds
+なぜGitかって？それは英国スラングでバカとか見下げ果てたとかくだらないという意味だ。「僕は全てのプロジェクトを自分自身になぞらえて名づけている、最初はLinux、それからgit」という冗談は見逃せなかった。だが、gitは短くて言いやすくて、標準的なキーボードで入力できる。そして程良くユニークで標準的なコマンドの中には無く、珍しかった。ーリーナス・トーバルズ
