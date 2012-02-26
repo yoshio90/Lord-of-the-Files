@@ -29,17 +29,17 @@ Gitは欲望のスクラッチ
 
 これはオープンソースソフトウェアの小さな汚れた秘密だった。平均的なフリーソフトウェアプロジェクトは、大量のコードを持っているが、そのほとんどのコードが実際には使われることはない。カジュアルなユーザーにとって、彼らの変更点を開発者に見せることも、オープンソースコードベースにマージして戻すことも、しばしば難しすぎた。
 
-The Second Coming of Linus
+リーナス、2度目の到来
 
-So in 2005, Torvalds created Git, version control software specifically designed to take away the busywork of managing a software project. Using Git, anybody can tinker with their own version of Linux — or indeed any software project — and then, with a push of a button, share those changes with Torvalds or anyone else. There is no gatekeeper. In practical terms, Torvalds created a tool that makes it easy for someone to create an alternative to his Linux project. In technical terms, that’s called a “fork”.
+そこで2005年にトーバルズはGitという、ソフトウェアプロジェクトの管理という面倒な仕事を無くすためにデザインされたバージョン管理ソフトウェアを作った。Gitを利用すると、誰でも自分の持っているバージョンのLinuxを好きにいじくり回す事ができ、ーはっきり言えば他のソフトウェアプロジェクトであってもー、そしてボタンを押せばそれらの変更をトーバルズや他のみんなに共有することができる。そこには門番はいない。実用的に言えば、トーバルズは誰かがLinuxプロジェクトの代替を簡単に作れるツールを創りだした。技術用語で言えば、それは「fork」と呼ばれる。
 
-Back in the 1990s, forking was supposed to be a bad thing. It’s what created all of those competing, incompatible versions of Unix. For a while, there was a big fear that someone would somehow create their own fork of Linux, a version of the operating system that wouldn’t run the same programs or work in the same way. But in the Git world, forking is good. The trick was to make sure the improvements people worked out could be shared back with the community. It’s better to let people fork a project and tinker away with their own changes, than to shut them out altogether by only letting a few trusted authorities touch the code.
+1990年代を振り返ると、forkすることは悪いことだと考えられていた。それはこれらの矛盾から作られていた、互換性のないUnixである。誰かがどこかで自分のLinuxのforkを作ったら、そのOS上では同じプログラムが同じように動かなくなってしまうのでは、という大きな恐怖が一時あった。しかし、Gitの世界ではofrkすることは良いことである。そのトリックは人々の改善作業がコミュニティに必ず共有されるということだ。人々にプロジェクトをforkしてもらい自分でいじくり回してもらうことは、コードを触る権利のある数人の信頼ある人々の間だけに完全に閉じるよりもずっと良い。
 
-On a rare sunny February day in Portland, Torvalds demonstrates Git for Wired at his home office. With a few keystrokes, he quickly spots two new kernel submissions that change the same kernel code in different ways, a potential problem source.
+ポートランドでは珍しい晴れた2月のある日、トーバルズは彼のオフィスでWiredに向けてGitのデモを行う。kernelの中で問題となりうる同じコードに対して、2つの異なる手法で修正する新しい提案を彼はすばやく見つける。
 
-The old regime “makes it very hard to start radical new branches because you generally need to convince the people involved in the status quo up-front about their need to support that radical branch,” Torvalds says. “In contrast, Git makes it easy to just ‘do it’ without asking for permission, and then come back later and show the end result off — telling people ‘look what I did, and I have the numbers to show that my approach is much better.’”
+昔のやり方は「完全な新しいブランチから始めるのは難しい、なぜならyou generally need to convince the people involved in the status quo up-front about their need to support that radical branch」とトーバルズは言う。「対照的に、Gitは許可を尋ねることなくともかく"やってみる"というのを簡単にしていて、それから戻ってきて結果を見せるーみんなに"僕はこんなことをやったんだ、僕のやり方が良いってことをたくさん見せられるよ"って言えばいい」
 
-It may have been built for Linux, but Git quickly proved to be a godsend for any large organization managing giant code bases. Today, Facebook, Staples, Verizon and even Microsoft are users. At Google, Git is so important that the company pays Junio Hamano – who took over the project from Torvalds – to work on Git fulltime, and also pays the salary for the project’s second-in-command, Shawn Pearce. 
+Linuxのために作られたけれども、Gitはすぐに全ての巨大なコードベースを管理する大規模な組織にとって神様からの贈り物となった。今日では、Facebook、Staples、Verizon、そしてMicrosoftまでもがユーザーである。GoogleではGitがあまりにも重要なので、会社から濱野純ー彼はトーバルズからプロジェクトを引き継いでGitのためにフルタイムで働いているーと、プロジェクトの副司令官であるショーン・ピアースに対してお金を支払っている。
 
 Git Without the ‘Pain in the Ass’
 
