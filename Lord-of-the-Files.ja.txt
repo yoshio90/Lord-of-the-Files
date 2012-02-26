@@ -41,25 +41,25 @@ Gitは欲望のスクラッチ
 
 Linuxのために作られたけれども、Gitはすぐに全ての巨大なコードベースを管理する大規模な組織にとって神様からの贈り物となった。今日では、Facebook、Staples、Verizon、そしてMicrosoftまでもがユーザーである。GoogleではGitがあまりにも重要なので、会社から濱野純ー彼はトーバルズからプロジェクトを引き継いでGitのためにフルタイムで働いているーと、プロジェクトの副司令官であるショーン・ピアースに対してお金を支払っている。
 
-Git Without the ‘Pain in the Ass’
+"いらいら"せずにGitを使う
 
-The problem is that not everyone is Linus Torvalds, and not every company is Google. For the 99 percent, Git’s command-line interface is notoriously difficult to use. That’s where GitHub comes in. It simplifies Git. A lot. Its first slogan was: “Git hosting: No longer a pain in the ass.”
+問題は、全ての人間ががリーナス・トーバルズではないし、全ての会社がGoogleではないということだ。99パーセントの人にとって、Gitのコマンドラインインタフェースは使いにくいことで有名だ。それがGitHubが流行した理由だ。GitHubはGitをシンプルにした。たくさん。その最初のスローガンはこれだ：「Gitホスティング：いらいらせずに」
 
-Tom Preston-Werner dreamed up GitHub and roped Chris Wanstrath into the project one night in October 2007 at a coder’s meet-up at Zeke’s, a San Francisco sports bar a few blocks from the downtown stadium where the San Francisco Giants play.
+トム・プレストン＝ワーナーはGitHubを思いつき、2007年10月のある夜のZeke'sーダウンタウンのサンフランシスコジャイアンツの球場から数ブロックのところにあるスポーツバーーでのミートアップで、クリス・ワンストラスを焚きつけた。
 
-At first, GitHub was a side project. Wanstrath and Preston-Werner would meet on Saturdays to brainstorm, while coding during their free time and working their day jobs. “GitHub wasn’t supposed to be a startup or a company. GitHub was just a tool that we needed,” Wanstrath says. But — inspired by Gmail — they made the project a private beta and opened it up to others. Soon it caught on with the outside world.
+最初は、GitHubはサイドプロジェクトだった。ワンストラスとプレストン＝ワーナーはブレインストーミングするために土曜日に会っていて、自由時間にコードを書いたり本業をしていた。「GitHubはスタートアップや会社になるとは思ってなかった。GitHubは単に僕達が欲しいと思ったツールだったんだ」ワンストラスは言う。しかし、Gmailに触発されて、彼らはプロジェクトをプライベートベータにして、他の人にも開いた。すぐに、外の世界で人気を博した。
 
-By January of 2008, Hyett was on board. And three months after that night in the sports bar, Wanstrath got a message from Geoffrey Grosenbach, the founder of PeepCode, an online learning site that had started using GitHub. “I’m hosting my company’s code here,” Grosenbach said. “I don’t feel comfortable not-paying you guys. Can I just send a check?”
+2008年の1月には、ハイアットが仲間になった。そしてあのスポーツバーでの夜から3ヶ月後に、ワンストラスはジェフリー・グローセンバックからメッセージを受け取った。彼はPeepCodeというオンライン学習サイトの創立者でもあり、PeepCodeはGitHubを使い始めていた。「私は、私の会社のコードをここに置いている」グローセンバックは言った。「君達に何も支払わないのは私の気分が悪い。小切手を送ってもいいだろうか？」
 
-It was the first of many. In July 2008, Microsoft acquired Powerset, the startup that was providing Preston-Werner with a day job. The software giant offered Preston-Werner a $300,000 bonus and stock options to stay on board for another three years. But he quit, betting everything on GitHub.
+それは初めてのお金だった。2008年7月にMicrosoftは、プレストン＝ワーナーが本業として提供していたスタートアップであるPowersetを買収した。ソフトウェアの巨人はプレストン＝ワーナーに30万ドルのボーナスとストックオプションを提示して、3年間留まるように申し出た。しかし彼はそこを去り、全てをGitHubに投じるようになる。
 
-“It was a little scary at the time to give up something like that, but I would not change anything about that decision at all,” he says now.
+「その当時そういうのを辞めるというのは多少の恐怖があったけど、私はあの決断を変えるつもりはなかった」彼は今はこう言う。
 
-When Wired visited GitHub’s offices earlier this year, we found a bit of a geeks’ paradise. There’s an iPhone-controlled quadcopter and a four-tap kegerator, and a conference room that’s a low-budget knockoff of the White House’s situation room, complete with a massive 1970's style red phone. But the toys aren’t what makes GitHub different. It’s the startup’s outright hostility toward corporate command-and-control that really sets it apart.
+今年の始めにWiredがGitHubのオフィスを訪れた時、我々はちょっとしたギーク達の楽園を見つけた。iPhoneで操作できるクアッドコプターや、four-tap kegerator、そして1970年代式の大きな赤い電話だけは完璧な、ホワイトハウスの司令室の安価な模倣品の様な会議室があった。だが、それらのおもちゃがGitHubを異なるものとしているわけではない。スタートアップの持つ、会社の指揮統制に対するはっきりとした敵対心が、本当に違うものとしている。
 
-“We don’t keep track of vacation days; we don’t keep track of hours. It doesn’t matter to us,” says CIO Scott Chacon. “I’ve been here at midnight and there are five people here. And I’ve been here in the middle of the day on a Thursday and there’s nobody here.”
+「私達は休暇を管理しない。私達は時間を管理しない。それは私達には問題ではない」とCIOのスコット・チャコンは言う。「夜中にここに来ると5人いる。木曜の日中に来たら誰もいない」
 
-And yet it’s the most productive software development team he’s ever worked on, Chacon says.
+でも、今まで働いたチームの中で最も生産性の高いソフトウェア開発チームだ、とチャコンは言う。
 
 Git to the Future
 
