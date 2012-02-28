@@ -15,9 +15,9 @@ GitHub のギークっぽい 1300 平米のロフトは会社の目的を反映�
 すぐにソフトウェア業界は GitHub の虜になった。GitHub には現在 130 万人以上のユーザー、そして 200 万以上のレポジトリがあり、なんとこれは2年前と比べて 8 倍に相当する。もしプログラムの断片やウィキページを含めるなら、400 万以上のレポジトリになるのだ。2 年前、 GitHub は 8 人のチームで、会社の会議はサンフランシスコのカフェで開いていた。
 2011 年の初めまでには 14 人の「ハバーナッツ」になり(GitHub の社員はこう呼ばれている)、そして 1 年後には 57 人になった。7 月にはブログシステムの運営会社 SixApart のオフィスのあたった場所に引越しをした。GitHub は凄まじい勢いで成長した。しかも、まだベンチャーキャピタルからの投資を一切受けていないのである。
 
-Once you’ve heard about GitHub, you start to see it almost everywhere. Sometimes, it’s hosting the code that underpins a big-name website. Other times, it’s driving a secret skunkworks project inside a Fortune 500 company. It has brought open source software that much closer to fulfilling its promise — but it doesn’t stop there. It’s also democratizing the creation of web pages and DNA analysis tools and maybe even the law of the land.
+もし一度でも GitHub のことを聞いたことがあるなら、既に GitHub がそこらじゅうにあることに気がつくだろう。GitHub はあるときは巨大なウェブサイトの支えるソフトウェアを管理し、またあるときはフォーチュン500に載るような巨大起社の秘密のプロジェクトを動かしたりしている。GitHub はオープンソースのソフトウェアをまさにオープンソースたるものにしてきた。しかし、それだけにとどまらない。ウェブページの制作、DNSの解析ツールや、国の法律さえも民主化しようとしているのだ。
 
-“GitHub has changed the way that people approach development,” says Tom Preston-Werner, the company’s chief technology officer. “They realize that it doesn’t have to be so complex.”
+「GitHub はみんなの開発手法を変えてしまったんだ。」GitHubのCTO、トム・プレストン・ワーナーは言う。「みんなにそれは難しいものじゃないって気づかせたんだ。」
 
 Gitは欲望のスクラッチ
 
