@@ -1,15 +1,14 @@
-﻿Lord of the Files: How GitHub Tamed Free Software (And More)
-ファイルを奪え! - どのようにGithubがフリーソフトウェアを支配したか。あとオマケ。
+ファイルの王たち - どのように Github がフリーソフトウェアを支配したか。あとオマケ。
 
 ワイアードエンタープライズ ロバート・マクミリアン著
 
-サンフランシスコ発 - GitHubの創業者が去年、今流行りのSOMAのロフトに引っ越した時、最初にしたことは改装だった。
-暖炉(偽物だけど)、豪華な革張りの椅子、スコッチが隠されている木製の地球儀 ― 大きなオフィスを豪華な高級スイートルームへと作り替えたのだ。壁にかかっているのナポレオンのような格好をした五本のタコの足があるネコの絵である。Githubはこのネコを「オクトキャット」と読んでいる。
+サンフランシスコ発 - GitHub の創業者が去年、今流行りの SOMA地区のロフトに引っ越した時、最初にしたことは改装だった。
+暖炉、豪華な革張りの椅子、スコッチが隠されている木製の地球儀 ― 大きなオフィスを豪華な偽物の重役室へと作り替えたのだ。壁にかかっているのナポレオンのような格好をした五本のタコの足があるネコの絵である。GitHub はこのネコを「オクトキャット」と呼んでいる。
 
-しかし、実際、ここは本当の高級スイートルームではない。ここは誰でも入ること出来て、仕事をしたり遊んだりできるミーティングルームである。
+実際、ここは本当の重役室ではない。ここは誰でも入ること出来て、仕事をしたり遊んだりできるミーティングルームなのだ。
 
-Githubの共同創業者でCIOのスコット・チャコンは「誰でも友達を連れてあの部屋に入って見せていいよ」と言う。
-チャコンとCEOのクリス・ワンストラス、それから他の経営者も個室を持たない。オープンはフロアで作業をするコーダーの隣に座ってモニターを睨むほかの社員と仕事をしている。もちろん、LCD Soundsystemの爆音の音楽を聞きながら。
+GitHub の共同創業者で CIO のスコット・チャコンは「誰でも友達を連れてあの部屋に入って見せていいよ」と言った。
+チャコンと CEO のクリス・ワンストラス、それから他の経営者も個室を持たない。オープンはフロアで作業をするコーダーの隣に座ってモニターを睨むほかの社員と仕事をしている。もちろん、LCD Soundsystem の爆音の音楽を聞きながら。
 
 GitHub’s geektastic 14,000-square-foot loft mirrors its mission: to democratize computer programming. GitHub.com is best thought of as Facebook for geeks. Instead of uploading videos of your cat, you upload software. Anyone can comment on your code and add to it and build it into something better. The trick is that it decentralizes programming, giving everyone a new kind of control. GitHub has shaken up the way software gets written, making coding a little more anarchic, a little more fun, and a lot more productive.
 
